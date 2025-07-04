@@ -26,6 +26,7 @@ Das Projektjournal soll Statusberichte von Ihrer Umsetzung enthalten. Anhand vom
     - [🎨 Layout & Schriftart anpassen](#-layout--schriftart-anpassen)
     - [💾 Laden & Schreiben der Daten](#-laden--schreiben-der-daten)
   - [💻 Besonders erwähnenswerte Code-Beispiele](#-besonders-erwähnenswerte-code-beispiele)
+  - [Reflexion](#-Reflexion)
   
 
 ---
@@ -327,3 +328,6 @@ var json = File.ReadAllText("daten/benutzer.json");
 var benutzer = JsonSerializer.Deserialize<List<Benutzer>>(json);
 ```
 
+## Reflexion
+Der Fachblock war sehr anspruchsvoll, hat mir jedoch viele Erkenntnisse gebracht. Ich habe gelernt, dass die UI-Bedienung nicht immer einfacher ist als das Scripting über Powershell-Skripte, zumindest im Fall von Visual Studio und Git.
+Es war schwierig, Termine einzuhalten, weil ich dann meinem Qualitätsanspruch nicht gerecht werden konnte.  Trotzdem denke ich, dass dies im Arbeitsleben ein wichtiger Punkt ist.
