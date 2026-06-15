@@ -2,9 +2,9 @@
 
 ## ℹ️ Info
 
-Das Projektjournal soll Statusberichte von Ihrer Umsetzung enthalten. Anhand vom Projektjournal soll sichtbar werden, mit was Sie sich bisher beschäftigt haben und was der aktuelle Stand des Projektes ist. Es gibt keine starre Struktur – dokumentieren, was wichtig erscheint.
+Das Projektjournal soll Statusberichte von Ihrer Umsetzung enthalten. Anhand vom Projektjournal soll sichtbar werden, mit was du dich bisher beschäftigt hast und was der aktuelle Stand des Projektes ist. Es gibt keine starre Struktur – dokumentieren, was wichtig erscheint.
 
-**Seien Sie so ausführlich wie nötig.**
+**Sei so ausführlich wie nötig.**
 
 ---
 ## Inhaltsverzeichnis
@@ -12,16 +12,16 @@ Das Projektjournal soll Statusberichte von Ihrer Umsetzung enthalten. Anhand vom
   - [ℹ️ Info](#ℹ️-info)
   - [Inhaltsverzeichnis](#inhaltsverzeichnis)
   - [Tagesaktivitäten](#tagesaktivitäten)
-  - [🧩 Phase 1](#-phase-1)
-  - [🧱 Phase 2](#-phase-2)
+  - [Phase 1](#phase-1)
+  - [Phase 2](#phase-2)
     - [📂 Verwendete Datenstruktur](#-verwendete-datenstruktur)
     - [🔷 UML Klassendiagramm](#-uml-klassendiagramm)
     - [🖼️ Layout](#️-layout)
     - [✅ Validierung](#-validierung)
-  - [🚀 Phase 3](#-phase-3)
-  - [⚙️ Phase 4](#️-phase-4)
-  - [🔒 Phase 5](#-phase-5)
-  - [🎯 Phase 6](#-phase-6)
+  - [Phase 3](#phase-3)
+  - [Phase 4](#phase-4)
+  - [Phase 5](#phase-5)
+  - [Phase 6](#phase-6)
   - [📸 Screenshots vom Fortschritt](#-screenshots-vom-fortschritt)
   - [⚠️ Herausforderungen \& Blockaden](#️-herausforderungen--blockaden)
     - [🎨 Layout \& Schriftart anpassen](#-layout--schriftart-anpassen)
@@ -42,7 +42,7 @@ Das Projektjournal soll Statusberichte von Ihrer Umsetzung enthalten. Anhand vom
 
 ---
 
-## 🧩 Phase 1
+## Phase 1
 7.7.2025
 
 **Was habe ich in Phase 1 umgesetzt:**
@@ -53,7 +53,7 @@ Hello World wurde erstellt und zum Laufen gebracht:
 
 ---
 
-## 🧱 Phase 2
+## Phase 2
 14.07.2025
 
 **Was habe ich in Phase 2 umgesetzt:**
@@ -114,7 +114,7 @@ Folgende Felder müssen validiert werden:
 | ------------- | ---------------------------------------- |
 | feedback_text | Erlaubt sind nur alphanumerische Zeichen |
 
-## 🚀 Phase 3
+## Phase 3
 
 28.07.2025
 
@@ -128,7 +128,7 @@ Folgende Felder müssen validiert werden:
 
 ---
 
-## ⚙️ Phase 4
+## Phase 4
 
 30.07.2025
 
@@ -142,7 +142,7 @@ Folgende Felder müssen validiert werden:
 
 ---
 
-## 🔒 Phase 5
+## Phase 5
 
 04.08.2025
 
@@ -155,7 +155,7 @@ Folgende Felder müssen validiert werden:
 
 ---
 
-## 🎯 Phase 6
+## Phase 6
 
 11.08.2025
 
